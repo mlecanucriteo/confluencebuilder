@@ -139,6 +139,9 @@ LITERAL2LANG_MAP_V1 = {
     'powershell': 'powershell',
     'ps1': 'powershell',
     'psm1': 'powershell',
+    # Protobuf
+    'proto': 'protobuf',
+    'protobuf': 'protobuf',
     # Python
     'py': 'python',
     'py3': 'python',
@@ -312,6 +315,9 @@ LITERAL2LANG_MAP_V2 = {
     'psm1': 'powershell',
     # Prolog
     'prolog': 'prolog',
+    # Protobuf
+    'proto': 'protobuf',
+    'protobuf': 'protobuf',
     # Puppet
     'puppet': 'puppet',
     # Python
